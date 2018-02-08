@@ -1,6 +1,6 @@
 ## hci-colloq
 
-Webpage for the Human-Computer Interaction Student Research Colloquium Series at Northwestern University
+Human-Computer Interaction Student Research Colloquium Series at Northwestern University
 
 Work in progress. We plan to use this repository/webpage to provide information about the event and presentation schedule for Winter and Spring 2018. Check back soon!
 
